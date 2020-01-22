@@ -1,5 +1,6 @@
 #' ---
 #' title: Basic R in One Script
+#' author: Durrell D. Kapan and Giovanni Rapacciuolo 
 #' ---
 #' 
 #' This document is an R *script*. 
